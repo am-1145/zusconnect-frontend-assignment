@@ -20,17 +20,22 @@ To simply be comfortable with React and Tailwind :)
 
 Run the following commands in your terminal:
 
+1. Clone the repository
 ```bash
-# 1. Clone the repository
-git clone <https://github.com/am-1145/zusconnect-frontend-assignment.git>
 
-# 2. Navigate into the project directory
-cd <zusconnect-frontend-assignment>
-
-# 3. Install dependencies
+git clone https://github.com/am-1145/zusconnect-frontend-assignment.git
+ ```
+2. Navigate into the project directory
+```bash
+cd zusconnect-frontend-assignment
+```
+3. Install dependencies
+```bash
 npm install  # or yarn install
+```
 
-# 4. Start the development server
+4. Start the development server
+```bash
 npm start  # or yarn start
 ```
 
