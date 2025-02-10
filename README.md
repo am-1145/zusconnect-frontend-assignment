@@ -1,8 +1,8 @@
 # Travel Website
 
-Responsive Travel Website Using React.js And Tailwind CSS - [Take a look](https://discover-qatar.netlify.app/)
+Responsive Travel Website Using React.js And Tailwind CSS 
 
-![Practice](https://img.shields.io/badge/Practice-ReactJs/TailwindCSS-blue.svg)
+
 
 ## Tech Stack
 
@@ -16,13 +16,9 @@ Responsive Travel Website Using React.js And Tailwind CSS - [Take a look](https:
 
 To simply be comfortable with React and Tailwind :)
 
-## Screenshot
 
-![DiscoverQatar](https://user-images.githubusercontent.com/93200960/212489681-de3ff13f-8fa7-49ed-8001-21da66b04a81.png)
 
-## Demo
 
-https://user-images.githubusercontent.com/93200960/212489715-a6aeedfe-a2bf-4df7-9ce8-89ef48d6d882.mp4
 
 ## Acknowledgments
 
