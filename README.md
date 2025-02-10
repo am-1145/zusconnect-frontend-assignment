@@ -16,8 +16,23 @@ Responsive Travel Website Using React.js And Tailwind CSS
 
 To simply be comfortable with React and Tailwind :)
 
+## How to Run the Project
 
+Run the following commands in your terminal:
 
+```bash
+# 1. Clone the repository
+git clone <https://github.com/am-1145/zusconnect-frontend-assignment.git>
+
+# 2. Navigate into the project directory
+cd <zusconnect-frontend-assignment>
+
+# 3. Install dependencies
+npm install  # or yarn install
+
+# 4. Start the development server
+npm start  # or yarn start
+```
 
 
 ## Acknowledgments
